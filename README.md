@@ -1,2 +1,2 @@
-# work-samples
-Contains some code snippets of my work
+# Work-samples
+A folder containing some code snippets of my work.
